@@ -13,3 +13,4 @@ def test_21st_fibonacci():
 
 def test_negative_fibonacci():
     assert(fibonacci(-1) == None)
+
